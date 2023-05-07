@@ -12,9 +12,9 @@ This repo is a collection of awesome Tinybird resources!
 - [Web Analytics](https://github.com/tinybirdco/web-analytics-starter-kit)
 - [Log Analytics](https://github.com/tinybirdco/log-analytics-starter-kit)
 
-SDKs & Utilities 🧰
+## SDKs & Utilities 🧰
 
-- [tinybird-utils](https://github.com/tremorlabs/tinybird-utils) a simple TypeScript wrapper for your Tinybird API Endpoints with SWR
+- [tinybird-utils](https://github.com/tremorlabs/tinybird-utils) a simple TypeScript wrapper for your Tinybird API Endpoints with SWR. Built by the [Tremor](https://www.tremor.so/) team.
 
 ## Open-source Projects 🔓
 
