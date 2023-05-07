@@ -14,7 +14,10 @@ This repo is a collection of awesome Tinybird resources!
 
 ## SDKs & Utilities 🧰
 
-- [tinybird-utils](https://github.com/tremorlabs/tinybird-utils) a simple TypeScript wrapper for your Tinybird API Endpoints with SWR. Built by the [Tremor](https://www.tremor.so/) team.
+- [tinybird-utils](https://github.com/tremorlabs/tinybird-utils) (community) a simple TypeScript wrapper for your Tinybird API Endpoints with SWR, built by [Tremor](https://www.tremor.so/).
+- [go-tinybird](https://github.com/the-hotels-network/go-tinybird) (community) a Go SDK for Tinybird, built by [The Hotels Network](https://github.com/the-hotels-network)
+- [tinybird-nodejs-sdk](https://github.com/alejandromav/tinybird-nodejs-sdk) (community) a Nodejs SDK for Tinybird, built by [@alejandromav](https://github.com/alejandromav/)
+- [verdin](https://github.com/localstack/verdin) (community) a Python SDK for Tinybird, built by [LocalStack](https://github.com/localstack)
 
 ## Open-source Projects 🔓
 
