@@ -1,24 +1,24 @@
-# Awesome Tinybird!
+# Awesome Tinybird 🐥✨
 
 This repo is a collection of awesome Tinybird resources!
 
-## Documentation
+## Documentation 📚
 
 - [Official Tinybird docs](https://tinybird.co/docs)
 - [Tinybird's ClickHouse Knowledge Base](https://www.tinybird.co/clickhouse/knowledge-base)
 
-## Starter Kits
+## Starter Kits 🛠️
 
 - [Web Analytics](https://github.com/tinybirdco/web-analytics-starter-kit)
 - [Log Analytics](https://github.com/tinybirdco/log-analytics-starter-kit)
 
-## Open-source Projects
+## Open-source Projects 🔓
 
 - [dub.sh](https://github.com/steven-tey/dub) an open-source link shortener & Bitly alternative
 - [highstorm.app](https://github.com/chronark/highstorm) an open-source event tracker
 - [Aptabase](https://github.com/aptabase/aptabase) open-source analytics for apps
 
-## Commercial Projects
+## Commercial Projects 💰
 
 - [BeamAnalytics](https://beamanalytics.io) GDPR compliant web analytics
 - [Statsy](https://statsy.com/) carbon-conscious web analytics
