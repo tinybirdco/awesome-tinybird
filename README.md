@@ -14,6 +14,7 @@ This repo is a collection of awesome Tinybird resources!
 
 ## Open-source Projects 🔓
 
+- [Mockingbird](https://mockingbird.tinybird.co/) an open-source mock streaming data generator for any streaming tool
 - [dub.sh](https://github.com/steven-tey/dub) an open-source link shortener & Bitly alternative
 - [highstorm.app](https://github.com/chronark/highstorm) an open-source event tracker
 - [Aptabase](https://github.com/aptabase/aptabase) open-source analytics for apps
