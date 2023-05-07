@@ -12,6 +12,10 @@ This repo is a collection of awesome Tinybird resources!
 - [Web Analytics](https://github.com/tinybirdco/web-analytics-starter-kit)
 - [Log Analytics](https://github.com/tinybirdco/log-analytics-starter-kit)
 
+SDKs & Utilities 🧰
+
+- [tinybird-utils](https://github.com/tremorlabs/tinybird-utils) a simple TypeScript wrapper for your Tinybird API Endpoints with SWR
+
 ## Open-source Projects 🔓
 
 - [Mockingbird](https://mockingbird.tinybird.co/) an open-source mock streaming data generator for any streaming tool
