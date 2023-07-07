@@ -27,6 +27,8 @@ This repo is a collection of awesome Tinybird resources!
 - [dub.sh](https://github.com/steven-tey/dub) an open-source link shortener & Bitly alternative
 - [highstorm.app](https://github.com/chronark/highstorm) an open-source event tracker
 - [Aptabase](https://github.com/aptabase/aptabase) open-source analytics for apps
+- [Papermark](https://github.com/mfts/papermark) open-source alternative to DocSend
+- [OpenStatus](https://github.com/mxkaske/openstatus) open-source status page and alerting
 
 ## Commercial Projects 💰
 
