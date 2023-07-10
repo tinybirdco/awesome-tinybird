@@ -29,6 +29,7 @@ This repo is a collection of awesome Tinybird resources!
 - [Aptabase](https://github.com/aptabase/aptabase) open-source analytics for apps
 - [Papermark](https://github.com/mfts/papermark) open-source alternative to DocSend
 - [OpenStatus](https://github.com/mxkaske/openstatus) open-source status page and alerting
+- [Unkey](https://github.com/unkeyed/unkey) open-source api key management with analytics
 
 ## Commercial Projects 💰
 
@@ -39,3 +40,5 @@ This repo is a collection of awesome Tinybird resources!
 - [dub.sh](https://dub.sh/) managed service of the [dub.sh](https://github.com/steven-tey/dub) FOSS project, a link shortener & Bitly alternative
 - [Aptakube](https://aptakube.com/) a modern Kubernetes desktop client
 - [Aptabase](https://aptabase.com/) a managed service of the [Aptabase](https://github.com/aptabase/aptabase) FOSS projects, analytics for apps
+- [Unkey](https://unkey.dev) managed service of the [unkey.dev](https://github.com/unkeyed/unkey) FOSS project, api key authorization
+
