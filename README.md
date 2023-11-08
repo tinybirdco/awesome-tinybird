@@ -19,6 +19,8 @@ This repo is a collection of awesome Tinybird resources!
 - [tinybird-nodejs-sdk](https://github.com/alejandromav/tinybird-nodejs-sdk) (community) a Nodejs SDK for Tinybird, built by [@alejandromav](https://github.com/alejandromav/)
 - [verdin](https://github.com/localstack/verdin) (community) a Python SDK for Tinybird, built by [LocalStack](https://github.com/localstack)
 - [zod-bird](https://github.com/chronark/zod-bird) (community) a light-weight TypeScript library offering type safety for Tinybird APIs using `zod` plus Nextjs cache directives, built by [chronark](https://github.com/chronark/)
+- [VSCode Extension](https://github.com/tinybirdco/vscode-tinybird-support) (community) an extension providing some helpers for your Tinybird data projects.
+- [CI Flows for Tinybird Data Projects](https://github.com/tinybirdco/ci) (community) a collection of configuration files that enable CI flows for Tinybird data projects.
 
 ## Open-source Projects 🔓
 
