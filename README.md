@@ -6,6 +6,7 @@ This repo is a collection of awesome Tinybird resources!
 
 - [Official Tinybird docs](https://tinybird.co/docs)
 - [Tinybird's ClickHouse Knowledge Base](https://www.tinybird.co/clickhouse/knowledge-base)
+- [Tinybird Changelog](https://www.tinybird.co/changelog)
 
 ## Starter Kits 🛠️
 
