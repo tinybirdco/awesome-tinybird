@@ -27,7 +27,7 @@ This repo is a collection of awesome Tinybird resources!
 
 - [Mockingbird](https://mockingbird.tinybird.co/) an open-source mock streaming data generator for any streaming tool
 - [Tinybird Grafana Data Source](https://github.com/tinybirdco/grafana-tinybird-datasource) an open-source plugin for Grafana to visualize & alert on Tinybird APIs
-- [dub.sh](https://github.com/steven-tey/dub) an open-source link shortener & Bitly alternative
+- [Dub.co](https://github.com/dubinc/dub) open-source link management infrastructure
 - [highstorm.app](https://github.com/chronark/highstorm) an open-source event tracker
 - [Aptabase](https://github.com/aptabase/aptabase) open-source analytics for apps
 - [Papermark](https://github.com/mfts/papermark) open-source alternative to DocSend
@@ -40,7 +40,7 @@ This repo is a collection of awesome Tinybird resources!
 - [Statsy](https://statsy.com/) carbon-conscious web analytics
 - [Planetfall](https://planetfall.io/) global latency monitoring
 - [UserLoop](https://userloop.io/) AI-powered customer feedback & surverys
-- [dub.sh](https://dub.sh/) managed service of the [dub.sh](https://github.com/steven-tey/dub) FOSS project, a link shortener & Bitly alternative
+- [Dub.co](https://dub.co/) managed service of the [Dub.co](https://github.com/dubinc/dub) FOSS project, the open-source link management infrastructure
 - [Aptakube](https://aptakube.com/) a modern Kubernetes desktop client
 - [Aptabase](https://aptabase.com/) a managed service of the [Aptabase](https://github.com/aptabase/aptabase) FOSS projects, analytics for apps
 - [Unkey](https://unkey.dev) managed service of the [unkey.dev](https://github.com/unkeyed/unkey) FOSS project, api key authorization
